@@ -2,11 +2,13 @@
 
 .topStoryCard {
   background-color: magenta;
-  background-image: url("../images/laibachasz.jpg");
+  /*background-image: url("../images/laibachasz.jpg");*/
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 52% 100%;
   background-position: left;
   border: 1px solid black;
+  display: flex;
   height: 280px;
+  justify-content: flex-end;
   margin: 6px;
 }
