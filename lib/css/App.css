@@ -1,0 +1,10 @@
+body {
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}

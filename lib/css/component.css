@@ -1,0 +1,12 @@
+
+
+.topStoryCard {
+  background-color: magenta;
+  background-image: url("../images/laibachasz.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left;
+  border: 1px solid black;
+  height: 280px;
+  margin: 6px;
+}
